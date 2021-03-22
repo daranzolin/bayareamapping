@@ -15,7 +15,7 @@ germane to the San Franciso Bay Area.
 You can install the released version of bayareamapping from GitHub:
 
 ``` r
-remotes::install_github("daranzolin/bayareamapping")
+remotes::install_github("ir-sfsu/bayareamapping")
 ```
 
 ## Cities
